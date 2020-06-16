@@ -1,0 +1,10 @@
+_dev/
+
+*.log
+*.tgz
+.npm
+.node_repl_history
+.yarn-integrity
+.idea
+.vscode
+.DS_Store
